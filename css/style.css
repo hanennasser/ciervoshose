@@ -1,0 +1,151 @@
+@font-face {
+  font-family: PlayfairDisplay;
+  src: url(PlayfairDisplay-Italic-VariableFont_wght.ttf);
+}
+    .hn_navbar_bg_color{
+      background-color:#996600 !important;
+	  
+}
+    .hn_head_2{
+	  text-align:center;
+	  color:#663500;
+	  padding:30px;
+	  text-transform:uppercase;
+	  letter-spacing: 5px;
+	  color: #663300;
+       text-shadow: 1px 1px 2px white,
+	   0 0 25px #744d25,
+	   0 0 5px #62401e;
+	   font-style:solid;
+}
+img{
+	width:100%;
+	border-radius:10%;
+
+}
+p{
+   border:2px solid #663300;
+   border-radius:10%;
+   padding:20px;
+   text-align:justify;
+   text-transform:capitalize;
+   line-height:1.8;
+   
+}
+
+.hn_card{
+	background:#ac7339;
+	margin-right:20px;
+	margin-left:13px;
+	margin-bottom:20px;
+	
+}
+
+
+.link_sm{
+	    margin: 13px;
+    font-size: 35px;
+    text-decoration: none;
+	color:#ff8000;
+	text-shadow: 1px 1px 2px white,
+	   0 0 25px #e67300,
+	   0 0 5px #ff8000;
+	   font-style:solid;
+	 
+	   
+}
+.link_sm:hover{
+	               hover decoration:none;
+}
+ 
+
+
+
+p i:first-child {
+  color: #ff0000;
+  font-size: xx-large;
+}
+ 
+.md {
+	
+    background-color:#ffbf80;
+	border:1px solid black;
+    color:black;
+    font-weight: bold;
+	font-size: 20px;
+	pading:5px;
+	margin:5px;
+	width:50%;
+	transition:width 2s;
+}
+
+img.card-img-top:hover{
+	opacity:0.5;
+}
+a.md:hover{
+	width:100%;
+}
+.footer-bottom{
+	            background:#996633;
+				width:100%;
+				margin:0px;
+				padding:20px 0;
+				text-align:center;
+}
+.footer-bottom p{
+                  font-size:20px;
+				  word-spacing:2px;
+				  text-transform:capitalize;	  
+}
+.footer-bottom span{
+	                   text-transform:uppercase;
+					   opacity:0.5;
+					   font-weight:200;
+					   color:#0033cc;					   
+}
+
+.filter:hover{
+	     opacity:0.5;
+		 
+	
+}
+
+.btn{
+	background-color:#ffbf80;
+	border:1px solid black;
+    color:black;
+    font-weight: bold;
+	font-size: 20px;
+	pading:5px;
+	margin:10px;
+	width:90%;
+	transition:width 1s;
+	
+	
+}
+
+.btn:hover{
+	width:100%;
+	color:black;
+	background:#ffbf80;
+	border:1px solid black;
+	 font-weight: bold;
+	font-size: 20px;
+	
+}
+
+.brands{
+	  padding:20px;
+	  background:#ac7339;
+	   margin-bottom:20px;
+	  
+}
+.icon{
+	    hover-decoration:none;
+		
+}
+.galery{
+	
+	      width:100%;
+		  
+}
